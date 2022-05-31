@@ -1,0 +1,64 @@
+html, body {
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Asul', sans-serif;
+    background-color: #eebbce;
+
+}
+.container {
+    width: 360px;
+    align-items: center;
+}
+#inputField {
+    width: 249px;
+    height: 46px;
+    border-width: 0;
+    border: 2px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+#addToDo {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 41px;
+    margin-left: 20px;
+    border-radius: 9px;
+}
+.paragraph-styling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+.to-dos {
+    margin-top: 25px;
+}
+h2{
+    color: tomato;
+    font-family: 'Asul', sans-serif;
+    margin-left: 65px;
+    letter-spacing: 2px;
+    color: #6c333d;
+}
+button{
+    border-radius: 20px;
+    background-color: #370c2f;
+    cursor: pointer;
+    color: white;
+}
+
+h1{
+    margin-left: 93px;
+    letter-spacing: 1px;
+    margin-top: 38px;
+    color: black;
+}
+
+hr{
+    margin-top: -12px;
+}
